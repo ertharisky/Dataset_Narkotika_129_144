@@ -47,4 +47,4 @@ Data set ini menggunakan beberapa plungin. Interuksi cara menggunakan data set i
 
 | Plugin | README |
 | ------ | ------ |
-| GitHub | [] |
+| GitHub | [https://github.com/ertharisky/Dataset_Narkotika_129_144] |
